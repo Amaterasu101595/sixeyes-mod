@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="sixeyes"
+version="1.0"
+displayName="Six Eyes"
+description='Adds Six Eyes ability with colored mob outlines, time dilation, projectile slowdown, and HUD icon.'
