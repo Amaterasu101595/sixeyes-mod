@@ -1,0 +1,13 @@
+sixeyes-mod/
+├─ build.gradle
+├─ settings.gradle
+├─ src/
+│   └─ main/
+│       ├─ java/com/example/sixeyes/
+│       │   ├─ SixEyesMod.java
+│       │   ├─ SixEyesKeybind.java
+│       │   ├─ SixEyesAbility.java
+│       │   └─ SixEyesHud.java
+│       └─ resources/
+│           ├─ META-INF/mods.toml
+│           └─ assets/sixeyes/textures/gui/sixeyes_icon.png
